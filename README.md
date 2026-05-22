@@ -66,22 +66,24 @@ impacket
 ## 📜 Certifications
 
 - 🏆 CAPT — Hackviser
+- 🏆 AD-RTS - Active Directory Red Team
+- 🏆 MCRTA - Cloud Red Team
 - 🛡 CRTA — Active Directory Red Team
-- 🎯 Preparing for eJPT
+- 🎯 Preparing for CRTP
 - 🚀 Targeting OSCP and beyond
 
 ---
 
 ## 🔥 Platforms
 
-- 🧩 TryHackMe — Top 6% (Returning soon for Top 1%)
+- 🧩 TryHackMe — Top 2% (Returning soon for Top 1%)
 - 🧠 Continuous lab practice & AD attack simulations
 
 ---
 
 ## 🌐 Website & Writeups
 
-- 🔗 Personal Website: https://x0ph3nt.github.io
+- 🔗 Personal Website: https://x0ph3nt.com
 - 📝 Published writeups and technical notes
 
 ---
