@@ -91,7 +91,6 @@ impacket
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0ph3nt&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=x0ph3nt&theme=tokyonight&hide_border=true"/>
 </p>
 
