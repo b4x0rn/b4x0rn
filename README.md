@@ -1,15 +1,15 @@
 <!-- ==================== HEADER ==================== -->
 
 <h1 align="center">Abdulaziz Alsalahi</h1>
-<h3 align="center">aka x0ph3nt</h3>
+<h3 align="center">aka b4x0rn</h3>
 
 <p align="center">
 Offensive Security Enthusiast | Active Directory Learner 
 </p>
 
 <p align="center">
-  <a href="https://x.com/x0ph3nt">
-    <img src="https://img.shields.io/badge/X-@x0ph3nt-black?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="https://x.com/b4x0rn">
+    <img src="https://img.shields.io/badge/X-@b4x0rn-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
@@ -19,7 +19,7 @@ Offensive Security Enthusiast | Active Directory Learner
 
 ```bash
 > whoami
-Abdulaziz Alsalahi (x0ph3nt)
+b4x0rn
 
 > focus
 Offensive Security & Active Directory Exploitation
