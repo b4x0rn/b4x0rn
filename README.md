@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 
 <h1 align="center">b4x0rn</h1>
-<h3 align="center">aka b4x0rn</h3>
+<!-- <h3 align="center">aka b4x0rn</h3> -->
 
 <p align="center">
 Offensive Security Enthusiast | Active Directory Learner 
