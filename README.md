@@ -57,11 +57,11 @@ root@b4x0rn:~# ./status.sh
 
 ```mermaid
 flowchart LR
-    A([🔎 Recon]) --> B([📡 Enumeration])
-    B --> C([💥 Initial Access])
-    C --> D([⬆️ Privilege Escalation])
-    D --> E([🔀 Lateral Movement])
-    E --> F([👑 Domain Owned])
+    A([ Recon]) --> B([ Enumeration])
+    B --> C([ Initial Access])
+    C --> D([ Privilege Escalation])
+    D --> E([ Lateral Movement])
+    E --> F([ Domain Owned])
     style A fill:#000,stroke:#ff0033,color:#fff
     style B fill:#000,stroke:#ff0033,color:#fff
     style C fill:#000,stroke:#ff0033,color:#fff
