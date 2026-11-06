@@ -67,8 +67,8 @@ Technical notes and writeups → **[x0ph3nt.com](https://x0ph3nt.com)**
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=x0ph3nt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=x0ph3nt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" width="100%"/> -->
 
 </div>
