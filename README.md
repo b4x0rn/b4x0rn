@@ -1,114 +1,74 @@
-<!-- ==================== HEADER ==================== -->
+<div align="center">
 
-<h1 align="center">b4x0rn</h1>
-<!-- <h3 align="center">aka b4x0rn</h3> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:00ff9c&height=200&section=header&text=b4x0rn&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Offensive%20Security%20%E2%80%A2%20Active%20Directory&descSize=16&descAlignY=68" width="100%"/>
 
-<p align="center">
-Offensive Security Enthusiast | Active Directory Learner 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=520&lines=Always+improving.+Always+learning.;Preparing+for+CRTP+%E2%86%92+OSCP;Stay+dangerous.+Stay+curious."/>
 
-<p align="center">
-  <a href="https://x.com/b4x0rn">
-    <img src="https://img.shields.io/badge/X-@b4x0rn-black?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+<br/><br/>
 
----
+<a href="https://x0ph3nt.com"><img src="https://img.shields.io/badge/Website-x0ph3nt.com-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="https://x.com/b4x0rn"><img src="https://img.shields.io/badge/X-@b4x0rn-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-Top_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 
-## 🧠 About Me
+</div>
 
-```bash
-> whoami
-b4x0rn
+<br/>
 
-> focus
-Offensive Security & Active Directory Exploitation
+```console
+b4x0rn@kali:~$ whoami
+b4x0rn — offensive security enthusiast
 
-> mindset
-Always improving. Always learning. No limits.
+b4x0rn@kali:~$ cat focus.txt
+Active Directory exploitation · Web · Linux privesc
+
+b4x0rn@kali:~$ cat status.txt
+[+] CRTP   → in preparation
+[+] OSCP   → next target
+[+] THM    → pushing for Top 1%
 ```
 
-I use this space to showcase what I build, what I learn, and what I break.
+<br/>
 
-Currently preparing for advanced certifications such as **OSCP** and continuously leveling up my skills in real-world attack techniques.
+## ⚔️ Skills
 
----
+| Area | What I do |
+|:--|:--|
+| 🏰 **Active Directory** | Enumeration, attack paths, red team labs |
+| 🌐 **Web** | XSS · SQLi · IDOR · recon & fuzzing |
+| 🐧 **Linux** | Enumeration & privilege escalation |
+| 🧠 **Scripting** | Bash · Python (leveling up) |
 
-## ⚔️ Technical Arsenal
-
-### 🐧 Linux
-- Comfortable with enumeration, privilege escalation, and system navigation
-- Strong terminal workflow
-
-### 🌐 Web Exploitation
-- XSS
-- Basic SQLi
-- IDOR
-- Recon & fuzzing
-
-### 🧠 Scripting
-- Bash (fundamentals)
-- Python (actively deepening knowledge)
-
----
-
-## 🛠 Tools I Work With
-
-```bash
-nmap
-burpsuite
-ffuf
-impacket
-```
-
----
+<p>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ffuf-1F2937?style=flat-square&logo=gnometerminal&logoColor=00ff9c"/>
+  <img src="https://img.shields.io/badge/Impacket-8B0000?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+</p>
 
 ## 📜 Certifications
 
-- 🏆 CAPT — Hackviser
-- 🏆 AD-RTS - Active Directory Red Team
-- 🏆 MCRTA - Cloud Red Team
-- 🛡 CRTA — Active Directory Red Team
-- 🎯 Preparing for CRTP
-- 🚀 Targeting OSCP and beyond
-
----
-
-## 🔥 Platforms
-
-- 🧩 TryHackMe — Top 2% (Returning soon for Top 1%)
-- 🧠 Continuous lab practice & AD attack simulations
-
----
-
-## 🌐 Website & Writeups
-
-- 🔗 Personal Website: https://x0ph3nt.com
-- 📝 Published writeups and technical notes
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x0ph3nt&theme=tokyonight&hide_border=true"/>
+<p>
+  <img src="https://img.shields.io/badge/CAPT-Hackviser-00ff9c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AD--RTS-Red_Team-00ff9c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCRTA-Cloud_Red_Team-00ff9c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRTA-Red_Team-00ff9c?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/CRTP-In_Progress-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OSCP-Targeting-grey?style=for-the-badge"/>
 </p>
 
----
+## 📝 Writeups
 
-## ⚡ Philosophy
+Technical notes and writeups → **[x0ph3nt.com](https://x0ph3nt.com)**
 
-```bash
-while(true){
-  learn();
-  practice();
-  break_things();
-  improve();
-}
-```
+<div align="center">
 
----
+<br/>
 
-<p align="center">
-  “Stay dangerous. Stay curious.”
-</p>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=x0ph3nt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
