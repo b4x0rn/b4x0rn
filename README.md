@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://x.com/b4x0rn"><img src="https://img.shields.io/badge/X-@b4x0rn-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TRYHACKME-TOP_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/b4x0rn"><img src="https://img.shields.io/badge/TRYHACKME-TOP_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 
 </div>
 
